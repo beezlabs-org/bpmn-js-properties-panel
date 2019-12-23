@@ -1,0 +1,22 @@
+[
+    {
+        "name": "com.classes.ClassOne",
+        "value": "com.classes.ClassOne"
+    },
+    {
+        "name": "com.classes.ClassTwo",
+        "value": "com.classes.ClassTwo"
+    },
+    {
+        "name": "com.classes.ClassThree",
+        "value": "com.classes.ClassThree"
+    },
+    {
+        "name": "com.classes.ClassFour",
+        "value": "com.classes.ClassFour"
+    },
+    {
+        "name": "com.classes.ClassFive",
+        "value": "com.classes.ClassFive"
+    }
+]
