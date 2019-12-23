@@ -1,22 +1,30 @@
 [
     {
-        "name": "com.classes.ClassOne",
-        "value": "com.classes.ClassOne"
+        "name": "Appender",
+        "value": "com.beezlabs.camundaengine.async.Appender"
     },
     {
-        "name": "com.classes.ClassTwo",
-        "value": "com.classes.ClassTwo"
+        "name": "Bot",
+        "value": "com.beezlabs.camundaengine.async.Bot"
     },
     {
-        "name": "com.classes.ClassThree",
-        "value": "com.classes.ClassThree"
+        "name": "Bot trigger",
+        "value": "com.beezlabs.camundaengine.async.BotTrigger"
     },
     {
-        "name": "com.classes.ClassFour",
-        "value": "com.classes.ClassFour"
+        "name": "Iterator",
+        "value": "com.beezlabs.camundaengine.async.Iterator"
     },
     {
-        "name": "com.classes.ClassFive",
-        "value": "com.classes.ClassFive"
+        "name": "Refactor",
+        "value": "com.beezlabs.camundaengine.async.Refactor"
+    },
+    {
+        "name": "Destructure",
+        "value": "com.beezlabs.camundaengine.async.UnMap"
+    },
+    {
+        "name": "Workflow trigger",
+        "value": "com.beezlabs.camundaengine.async.WorkflowTrigger"
     }
 ]
