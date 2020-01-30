@@ -1,31 +1,34 @@
 .bpp-properties-panel {
-  border: solid 2px #CCC;
+    border: solid 2px #ccc;
+}
+
+.bpp-properties-panel select {
+    border: dotted 1px #000 !important;
 }
 
 .bpp-properties-group {
-  margin: 10px;
+    margin: 10px;
 }
 
 .bpp-properties-entry {
-  margin-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 .bpp-properties-entry input.invalid,
 .bpp-properties-entry textarea.invalid {
-  border-color: red;
-  background: rgb(255, 209, 209);
+    border-color: red;
+    background: rgb(255, 209, 209);
 }
 
 .bpp-properties-entry [data-invalid] {
-  color: red;
+    color: red;
 }
 
 .bpp-hidden {
-  display: none;
+    display: none;
 }
 
 .bpp-properties-combo-options {
-
 }
 
 .bpp-properties-combo-options-empty {
@@ -42,11 +45,11 @@
 }
 
 .bpp-properties-static {
-  margin-bottom: 0px;
-  margin-top:0px;
-  border: 1px solid #ccc;
-  background-color: white;
-  padding: 1px 0px;
-  font: 13.3333px Arial;
-  width: 14%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border: 1px solid #ccc;
+    background-color: white;
+    padding: 1px 0px;
+    font: 13.3333px Arial;
+    width: 14%;
 }
