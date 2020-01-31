@@ -2,6 +2,9 @@
     border: solid 2px #ccc;
 }
 
+.bpp-properties-panel [type='text'],
+.bpp-properties-panel [contenteditable],
+.bpp-properties-panel textarea,
 .bpp-properties-panel select {
     border: dotted 1px #000 !important;
 }
