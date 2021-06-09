@@ -26,5 +26,9 @@
     {
         "name": "Workflow trigger",
         "value": "com.beezlabs.camundaengine.async.WorkflowTrigger"
+    },
+    {
+        "name": "Create Automation request",
+        "value": "com.beezlabs.camundaengine.async.CreateAutomationRequest"
     }
 ]
